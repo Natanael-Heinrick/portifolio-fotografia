@@ -1,0 +1,106 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* EDIÇÃO DO CORPO */ 
+
+body{
+    background-color: #ebf0f6;
+}
+
+/* EDIÇÃO DA LOGO DA EMPRESA */
+
+.container-foto-empresa{  
+    margin: 100px;
+    text-align: center;
+}
+
+/* EDIÇÃO DA NAVEGAÇÃO */
+
+.container-navegacao{
+    margin: 50px;
+     text-align: center;
+}
+.container-navegacao a{
+    text-decoration: none;
+    padding: 5px 10px;
+    color: #103665;
+    font-family: Helvetica;
+    font-size: 1.4em;
+   
+}
+
+.container-navegacao a:hover{
+    text-decoration: underline;
+ }
+
+
+/* CONTAINER IMAGEM APRESENTAÇÃO */
+
+.container-imagem-apresentacao{
+    float:left;
+}
+.container-imagem-apresentacao img{
+    width: 60%;
+    max-width: 30%;
+    margin: 100px auto 10% 10px;
+    display: inline-block;
+    width:40%;
+    margin:2%;
+    vertical-align:top;
+}
+
+/* EDIÇÃO TEXTO */
+ 
+
+
+
+.texto-apresentacao{  
+    display: inline-block;
+    width: 50%;
+    margin:2%;
+    vertical-align:top;
+    font-size: 1.2em;
+    font-family: Helvetica;
+    color: #103665; 
+    
+}
+
+
+ /* VISUALIZAÇÃO DO FOOTER*/
+
+ footer{
+ text-align: center;
+ }
+
+.container-rodape{
+    margin-bottom: 10px;
+}
+
+.container-rodape img{
+   width: 0.85%;
+  display: inline-block;
+  margin: 0.5%;
+  text-align: left;
+
+ }
+
+ .container-rodape a{
+    margin: 0.15%;
+ }
+
+.container-rodape p{  
+    display: inline-block;
+    text-align: center;
+    margin: 0.5%;
+    padding: 0;
+    color: #103665;
+    font-family: Helvetica;
+}
+
+.container-rodape .localidade{
+    margin-right: 10%
+}
+
+
